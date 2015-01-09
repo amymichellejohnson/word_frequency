@@ -1,5 +1,11 @@
+Program description: This program will count how frequently a word appears in a given string. The user should input both the word and the string of words to check.
+
 Ruby version 2.2.0
+
 Run bundle to install the necessary gems.(Run gem install bundler and then run bundle)
+
 Open source  
+
 Author: Amy Michelle Johnson <amy.johnson.michelle@gmail.com>
+
 No known bugs
