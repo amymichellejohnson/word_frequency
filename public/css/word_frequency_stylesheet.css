@@ -8,10 +8,10 @@ h2 {
 label {
   font-family: courier;
   font-size: 120%;}
-input {
-  font-family: courier;}
 button {
   background-color: blue;}
+input {
+  font-family: courier;}
 input[type="button"] {
   width: 120px;
   background-color: blue;}
