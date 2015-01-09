@@ -1,0 +1,21 @@
+h1 {
+  font-family: courier;
+  color: blue;
+  text-align: center;}
+h2 {
+  font-family:"courier new";
+  color: purple;}
+label {
+  font-family: courier;
+  font-size: 120%;}
+input {
+  font-family: courier;}
+button {
+  background-color: blue;}
+input[type="button"] {
+  width: 120px;
+  background-color: blue;}
+img {
+  display:block;
+  margin: 0px auto;
+  padding-top: 50px;}
